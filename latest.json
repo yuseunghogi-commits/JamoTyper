@@ -1,9 +1,9 @@
 {
-  "version": "1.7.2",
-  "notes": "슬라이더 속도가 실제 평균 속도와 같아지도록 수정 (오타·쉼 포함)",
+  "version": "1.7.3",
+  "notes": "한/영 상태를 못 읽는 프로그램에서는 글자 하나를 쳐서 확인, 업데이트 확인 1시간마다",
   "windows": {
     "url": "https://raw.githubusercontent.com/yuseunghogi-commits/JamoTyper/main/windows/JamoTyper.exe",
-    "sha256": "36743a72cdac3dedfac4f8d2ff1b8ca0af31647a2942977c078db025d1a4c71f"
+    "sha256": "ad2c7db45e94e91d5ba7321d045d646b54df973bb4708caafdbbf8b71f91dbf2"
   },
   "mac": {
     "version": "1.0.2",
