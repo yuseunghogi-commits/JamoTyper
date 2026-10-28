@@ -12,7 +12,7 @@
 | 맥 (M1~M4) | [JamoTyper-mac-AppleSilicon.zip](https://github.com/yuseunghogi-commits/JamoTyper/raw/main/mac/JamoTyper-mac-AppleSilicon.zip) |
 | 맥 (인텔) | [JamoTyper-mac-Intel.zip](https://github.com/yuseunghogi-commits/JamoTyper/raw/main/mac/JamoTyper-mac-Intel.zip) |
 
-현재 버전: 윈도우 1.7.1 · 맥 1.0.1
+현재 버전: 윈도우 1.7.2 · 맥 1.0.2
 
 ## 사용법 (윈도우)
 1. 칠 글을 복사 (Ctrl+C)
