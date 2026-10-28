@@ -4,13 +4,15 @@
 한글은 실제 입력기를 거쳐 **ㅇ → 아 → 안** 처럼 자모 단위로 조립돼요.
 
 ## 다운로드
-[최신 릴리스](https://github.com/yuseunghogi-commits/JamoTyper/releases/latest)에서 받으세요.
+아래 링크를 누르면 바로 받아져요.
 
 | 기기 | 파일 |
 |---|---|
-| 윈도우 | `JamoTyper.exe` (설치 없이 실행, 자동 업데이트) |
-| 맥 (M1~M4) | `JamoTyper-mac-AppleSilicon.zip` |
-| 맥 (인텔) | `JamoTyper-mac-Intel.zip` |
+| 윈도우 | [JamoTyper.exe](https://github.com/yuseunghogi-commits/JamoTyper/raw/main/windows/JamoTyper.exe) (설치 없이 실행, 자동 업데이트) |
+| 맥 (M1~M4) | [JamoTyper-mac-AppleSilicon.zip](https://github.com/yuseunghogi-commits/JamoTyper/raw/main/mac/JamoTyper-mac-AppleSilicon.zip) |
+| 맥 (인텔) | [JamoTyper-mac-Intel.zip](https://github.com/yuseunghogi-commits/JamoTyper/raw/main/mac/JamoTyper-mac-Intel.zip) |
+
+현재 버전: 윈도우 1.7.1 · 맥 1.0.1
 
 ## 사용법 (윈도우)
 1. 칠 글을 복사 (Ctrl+C)
