@@ -11,8 +11,9 @@
 | 윈도우 | [JamoTyper.exe](https://github.com/yuseunghogi-commits/JamoTyper/raw/main/windows/JamoTyper.exe) (설치 없이 실행, 자동 업데이트) |
 | 맥 (M1~M4) | [JamoTyper-mac-AppleSilicon.zip](https://github.com/yuseunghogi-commits/JamoTyper/raw/main/mac/JamoTyper-mac-AppleSilicon.zip) |
 | 맥 (인텔) | [JamoTyper-mac-Intel.zip](https://github.com/yuseunghogi-commits/JamoTyper/raw/main/mac/JamoTyper-mac-Intel.zip) |
+| 갤럭시 탭·안드로이드 | [JamoTyper-Android.apk](https://github.com/yuseunghogi-commits/JamoTyper/raw/main/android/JamoTyper-Android.apk) (자모타이퍼 키보드) |
 
-현재 버전: 윈도우 1.7.2 · 맥 1.0.2
+현재 버전: 윈도우 1.7.2 · 맥 1.0.2 · 안드로이드 1.0.1
 
 ## 사용법 (윈도우)
 1. 칠 글을 복사 (Ctrl+C)
