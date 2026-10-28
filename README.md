@@ -1,0 +1,25 @@
+# 자모타이퍼 (JamoTyper)
+
+복사한 글을 사람이 치는 것처럼 한 글자씩 입력해 주는 프로그램이에요.
+한글은 실제 입력기를 거쳐 **ㅇ → 아 → 안** 처럼 자모 단위로 조립돼요.
+
+## 다운로드
+[최신 릴리스](https://github.com/yuseunghogi-commits/JamoTyper/releases/latest)에서 받으세요.
+
+| 기기 | 파일 |
+|---|---|
+| 윈도우 | `JamoTyper.exe` (설치 없이 실행, 자동 업데이트) |
+| 맥 (M1~M4) | `JamoTyper-mac-AppleSilicon.zip` |
+| 맥 (인텔) | `JamoTyper-mac-Intel.zip` |
+
+## 사용법 (윈도우)
+1. 칠 글을 복사 (Ctrl+C)
+2. 입력할 칸 클릭
+3. **Ctrl + Shift + Alt** 를 같이 눌렀다 떼기 → 시작
+   - 다시 누르면 일시정지/재개, **Esc** 중지
+   - 속도는 진행 카드 슬라이더로 100~1000자/분
+
+맥은 **Control + Shift + Option**, 속도는 메뉴바 메뉴에서 바꿔요.
+처음 실행할 때 "PC 보호"(윈도우) 또는 "확인되지 않은 개발자"(맥) 경고가 뜨면 직접 허용해 주세요.
+
+© Seungho Yu
