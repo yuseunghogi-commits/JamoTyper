@@ -1,0 +1,13 @@
+{
+  "version": "1.7.1",
+  "notes": "긴 글(10만 자 이상)도 바로 시작, 업데이트를 저장소에서 받도록 변경",
+  "windows": {
+    "url": "https://raw.githubusercontent.com/yuseunghogi-commits/JamoTyper/main/windows/JamoTyper.exe",
+    "sha256": "997a86d80d4988dcfd0cafb231d400bcfe8d8004de9ecf2a38e5f61955835d4b"
+  },
+  "mac": {
+    "version": "1.0.1",
+    "appleSilicon": "https://raw.githubusercontent.com/yuseunghogi-commits/JamoTyper/main/mac/JamoTyper-mac-AppleSilicon.zip",
+    "intel": "https://raw.githubusercontent.com/yuseunghogi-commits/JamoTyper/main/mac/JamoTyper-mac-Intel.zip"
+  }
+}
