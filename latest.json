@@ -1,9 +1,9 @@
 {
-  "version": "1.7.4",
-  "notes": "단축키를 길게 누르면 최근 기록 목록, 숫자로 바로 선택",
+  "version": "1.7.5",
+  "notes": "Ctrl+D로 최근 기록 목록, 숫자나 클릭으로 선택",
   "windows": {
     "url": "https://raw.githubusercontent.com/yuseunghogi-commits/JamoTyper/main/windows/JamoTyper.exe",
-    "sha256": "26e144fffdae9fd64c9e6468c34ac95a15aba6352d7f0afa44916f03f2a80ccc"
+    "sha256": "b9bb282dd63c6f3e4d718068988259f0c646c76944d3f92dc9fb25f704f54462"
   },
   "mac": {
     "version": "1.0.2",
