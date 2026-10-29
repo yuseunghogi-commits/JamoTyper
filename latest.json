@@ -6,8 +6,17 @@
     "sha256": "b9bb282dd63c6f3e4d718068988259f0c646c76944d3f92dc9fb25f704f54462"
   },
   "mac": {
-    "version": "1.0.2",
+    "version": "1.1.0",
     "appleSilicon": "https://raw.githubusercontent.com/yuseunghogi-commits/JamoTyper/main/mac/JamoTyper-mac-AppleSilicon.zip",
-    "intel": "https://raw.githubusercontent.com/yuseunghogi-commits/JamoTyper/main/mac/JamoTyper-mac-Intel.zip"
+    "appleSiliconSha256": "98cd77d5a9f8e3d348527e32cc32744580661126c6651b514a6f0ee7b00bd067",
+    "intel": "https://raw.githubusercontent.com/yuseunghogi-commits/JamoTyper/main/mac/JamoTyper-mac-Intel.zip",
+    "intelSha256": "32d5a5f0452a56db5c93bd8c18a9f2188e6b31656413ed49015dd0b3c5973ca9"
+  },
+  "android": {
+    "versionCode": 4,
+    "version": "1.2.0",
+    "url": "https://raw.githubusercontent.com/yuseunghogi-commits/JamoTyper/main/android/JamoTyper-Android.apk",
+    "sha256": "a5a1ddcbe912a5ba17329794c61b4016ddfb1dc4c1795a3ba14af7bf673087df",
+    "notes": "긴 글도 바로 시작 · 앱 안에서 자동 업데이트"
   }
 }
