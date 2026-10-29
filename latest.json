@@ -1,9 +1,9 @@
 {
-  "version": "1.7.3",
-  "notes": "한/영 상태를 못 읽는 프로그램에서는 글자 하나를 쳐서 확인, 업데이트 확인 1시간마다",
+  "version": "1.7.4",
+  "notes": "단축키를 길게 누르면 최근 기록 목록, 숫자로 바로 선택",
   "windows": {
     "url": "https://raw.githubusercontent.com/yuseunghogi-commits/JamoTyper/main/windows/JamoTyper.exe",
-    "sha256": "ad2c7db45e94e91d5ba7321d045d646b54df973bb4708caafdbbf8b71f91dbf2"
+    "sha256": "26e144fffdae9fd64c9e6468c34ac95a15aba6352d7f0afa44916f03f2a80ccc"
   },
   "mac": {
     "version": "1.0.2",

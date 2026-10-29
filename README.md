@@ -13,7 +13,7 @@
 | 맥 (인텔) | [JamoTyper-mac-Intel.zip](https://github.com/yuseunghogi-commits/JamoTyper/raw/main/mac/JamoTyper-mac-Intel.zip) |
 | 갤럭시 탭·안드로이드 | [JamoTyper-Android.apk](https://github.com/yuseunghogi-commits/JamoTyper/raw/main/android/JamoTyper-Android.apk) (자모타이퍼 키보드) |
 
-현재 버전: 윈도우 1.7.3 · 맥 1.0.2 · 안드로이드 1.0.1
+현재 버전: 윈도우 1.7.4 · 맥 1.0.2 · 안드로이드 1.0.1
 
 ## 사용법 (윈도우)
 1. 칠 글을 복사 (Ctrl+C)
@@ -21,6 +21,7 @@
 3. **Ctrl + Shift + Alt** 를 같이 눌렀다 떼기 → 시작
    - 다시 누르면 일시정지/재개, **Esc** 중지
    - 속도는 진행 카드 슬라이더로 100~1000자/분
+   - **길게 누르고 있으면** 최근 기록 10개가 번호와 함께 떠요. 누른 채로 숫자(1~0)를 누르면 그 글을 바로 쳐요
 
 맥은 **Control + Shift + Option**, 속도는 메뉴바 메뉴에서 바꿔요.
 처음 실행할 때 "PC 보호"(윈도우) 또는 "확인되지 않은 개발자"(맥) 경고가 뜨면 직접 허용해 주세요.
