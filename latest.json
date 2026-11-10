@@ -1,9 +1,9 @@
 {
-  "version": "1.7.5",
-  "notes": "Ctrl+D로 최근 기록 목록, 숫자나 클릭으로 선택",
+  "version": "1.7.6",
+  "notes": "Ctrl+. 으로 옆 진행 창 켜고 끄기",
   "windows": {
     "url": "https://raw.githubusercontent.com/yuseunghogi-commits/JamoTyper/main/windows/JamoTyper.exe",
-    "sha256": "b9bb282dd63c6f3e4d718068988259f0c646c76944d3f92dc9fb25f704f54462"
+    "sha256": "c9dff79b46aaf0c646f4b430c026bf5012c8407427cc460d91d420d2717124f5"
   },
   "mac": {
     "version": "1.1.0",
